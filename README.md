@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Emmett 👋
 
-<!--
-**emmettfunston/emmettfunston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student at Northwestern University focused on digital hardware and semiconductor design.
 
-Here are some ideas to get you started:
+I'm especially interested in:
+- FPGA and RTL design
+- VLSI and digital IC design
+- High performance hardware for semiconductor, defense, and HFT applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My projects include work with Verilog, SRAM design, MAC arrays, embedded systems, and PCB development.
+
+Currently building my experience in FPGA, ASIC, and digital hardware design.
+
+📍 Northwestern University  
+💻 C++ • Python • Verilog  
+⚡ FPGA • VLSI • Embedded Systems
